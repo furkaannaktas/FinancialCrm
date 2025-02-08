@@ -28,6 +28,11 @@ Tüm bu finansal veriler, belirli kategorilere ayrılarak daha düzenli bir şek
   
   ![Ekran görüntüsü 2025-02-09 004038](https://github.com/user-attachments/assets/6b714c7a-3d0c-4514-855f-7ed953633153)
 
+  - 📈 **Dashboard Formu**  
+  Görsel grafikler ve anlık bilgilerle finansal durumunuzu analiz etmenize yardımcı olan ekran.
+
+  ![Ekran görüntüsü 2025-02-09 004321](https://github.com/user-attachments/assets/a450dd46-07e5-4f6d-8782-ae870a0ee7de)
+
 - 💳 **Banka Formu**  
   Banka hesaplarınızı kolayca yönetebileceğiniz, hesap bakiyelerinizi anlık takip edebileceğiniz ekran.
 
@@ -47,11 +52,6 @@ Tüm bu finansal veriler, belirli kategorilere ayrılarak daha düzenli bir şek
   Tüm banka işlemlerinizin geçmişini detaylı bir şekilde inceleyebilirsiniz.
 
   ![Ekran görüntüsü 2025-02-09 004557](https://github.com/user-attachments/assets/fd7f89a9-eb5b-4184-9656-8ae84167ada0)
-
-- 📈 **Dashboard Formu**  
-  Görsel grafikler ve anlık bilgilerle finansal durumunuzu analiz etmenize yardımcı olan ekran.
-
-  ![Ekran görüntüsü 2025-02-09 004321](https://github.com/user-attachments/assets/a450dd46-07e5-4f6d-8782-ae870a0ee7de)
 
 - ⚙️ **Ayarlar Formu**  
   Uygulama ayarlarınızı özelleştirebileceğiniz ve tercihlerinizi yönetebileceğiniz alan.
