@@ -56,7 +56,8 @@ Tüm bu finansal veriler, belirli kategorilere ayrılarak daha düzenli bir şek
 - ⚙️ **Ayarlar Formu**  
   Uygulama ayarlarınızı özelleştirebileceğiniz ve tercihlerinizi yönetebileceğiniz alan.
 
-  ![Ekran görüntüsü 2025-02-09 004628](https://github.com/user-attachments/assets/bb849a33-b4bb-4af3-94f1-66a733d78b9f)
+ ![Ekran görüntüsü 2025-02-09 005228](https://github.com/user-attachments/assets/b881ad01-b4dc-4b60-9cc7-8e77eaecf249)
+
 
 - 🗂️ **Kategoriler Formu**  
   Finansal verilerinizin kategorilere ayrılmasını sağlar. Kullanıcılar, giderlerini ve gelirlerini belirli kategorilere göre gruplandırabilir, böylece daha düzenli bir finansal takip gerçekleştirebilir. Ayrıca, yeni kategoriler ekleyebilir, mevcut kategorileri düzenleyebilir ve kategorilere ait istatistiksel verileri görüntüleyebilirsiniz.
