@@ -1,0 +1,293 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Msi\\source\\repos\\FinancialCrm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{703B0B43-D4A7-4C6D-928B-1C092A6BCADB}|FinancialCrm\\FinancialCrm.csproj|C:\\Users\\Msi\\source\\repos\\FinancialCrm\\financialcrm\\frmdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{703B0B43-D4A7-4C6D-928B-1C092A6BCADB}|FinancialCrm\\FinancialCrm.csproj|solutionrelative:financialcrm\\frmdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{703B0B43-D4A7-4C6D-928B-1C092A6BCADB}|FinancialCrm\\FinancialCrm.csproj|C:\\Users\\Msi\\source\\repos\\FinancialCrm\\financialcrm\\frmcategories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{703B0B43-D4A7-4C6D-928B-1C092A6BCADB}|FinancialCrm\\FinancialCrm.csproj|solutionrelative:financialcrm\\frmcategories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{703B0B43-D4A7-4C6D-928B-1C092A6BCADB}|FinancialCrm\\FinancialCrm.csproj|c:\\users\\msi\\source\\repos\\financialcrm\\financialcrm\\frmspendings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{703B0B43-D4A7-4C6D-928B-1C092A6BCADB}|FinancialCrm\\FinancialCrm.csproj|solutionrelative:financialcrm\\frmspendings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{703B0B43-D4A7-4C6D-928B-1C092A6BCADB}|FinancialCrm\\FinancialCrm.csproj|C:\\Users\\Msi\\source\\repos\\FinancialCrm\\financialcrm\\frmsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{703B0B43-D4A7-4C6D-928B-1C092A6BCADB}|FinancialCrm\\FinancialCrm.csproj|solutionrelative:financialcrm\\frmsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{703B0B43-D4A7-4C6D-928B-1C092A6BCADB}|FinancialCrm\\FinancialCrm.csproj|C:\\Users\\Msi\\source\\repos\\FinancialCrm\\financialcrm\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{703B0B43-D4A7-4C6D-928B-1C092A6BCADB}|FinancialCrm\\FinancialCrm.csproj|solutionrelative:financialcrm\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{703B0B43-D4A7-4C6D-928B-1C092A6BCADB}|FinancialCrm\\FinancialCrm.csproj|C:\\Users\\Msi\\source\\repos\\FinancialCrm\\financialcrm\\frmbankprocesses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{703B0B43-D4A7-4C6D-928B-1C092A6BCADB}|FinancialCrm\\FinancialCrm.csproj|solutionrelative:financialcrm\\frmbankprocesses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{703B0B43-D4A7-4C6D-928B-1C092A6BCADB}|FinancialCrm\\FinancialCrm.csproj|C:\\Users\\Msi\\source\\repos\\FinancialCrm\\financialcrm\\frmbilling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{703B0B43-D4A7-4C6D-928B-1C092A6BCADB}|FinancialCrm\\FinancialCrm.csproj|solutionrelative:financialcrm\\frmbilling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{703B0B43-D4A7-4C6D-928B-1C092A6BCADB}|FinancialCrm\\FinancialCrm.csproj|C:\\Users\\Msi\\source\\repos\\FinancialCrm\\financialcrm\\frmbanks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{703B0B43-D4A7-4C6D-928B-1C092A6BCADB}|FinancialCrm\\FinancialCrm.csproj|solutionrelative:financialcrm\\frmbanks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{703B0B43-D4A7-4C6D-928B-1C092A6BCADB}|FinancialCrm\\FinancialCrm.csproj|C:\\Users\\Msi\\source\\repos\\FinancialCrm\\financialcrm\\frmbilling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{703B0B43-D4A7-4C6D-928B-1C092A6BCADB}|FinancialCrm\\FinancialCrm.csproj|solutionrelative:financialcrm\\frmbilling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{703B0B43-D4A7-4C6D-928B-1C092A6BCADB}|FinancialCrm\\FinancialCrm.csproj|C:\\Users\\Msi\\source\\repos\\FinancialCrm\\financialcrm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{703B0B43-D4A7-4C6D-928B-1C092A6BCADB}|FinancialCrm\\FinancialCrm.csproj|solutionrelative:financialcrm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{703B0B43-D4A7-4C6D-928B-1C092A6BCADB}|FinancialCrm\\FinancialCrm.csproj|C:\\Users\\Msi\\source\\repos\\FinancialCrm\\financialcrm\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{703B0B43-D4A7-4C6D-928B-1C092A6BCADB}|FinancialCrm\\FinancialCrm.csproj|solutionrelative:financialcrm\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{703B0B43-D4A7-4C6D-928B-1C092A6BCADB}|FinancialCrm\\FinancialCrm.csproj|C:\\Users\\Msi\\source\\repos\\FinancialCrm\\financialcrm\\frmcategories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{703B0B43-D4A7-4C6D-928B-1C092A6BCADB}|FinancialCrm\\FinancialCrm.csproj|solutionrelative:financialcrm\\frmcategories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{703B0B43-D4A7-4C6D-928B-1C092A6BCADB}|FinancialCrm\\FinancialCrm.csproj|C:\\Users\\Msi\\source\\repos\\FinancialCrm\\financialcrm\\frmdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{703B0B43-D4A7-4C6D-928B-1C092A6BCADB}|FinancialCrm\\FinancialCrm.csproj|solutionrelative:financialcrm\\frmdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{703B0B43-D4A7-4C6D-928B-1C092A6BCADB}|FinancialCrm\\FinancialCrm.csproj|C:\\Users\\Msi\\source\\repos\\FinancialCrm\\financialcrm\\frmsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{703B0B43-D4A7-4C6D-928B-1C092A6BCADB}|FinancialCrm\\FinancialCrm.csproj|solutionrelative:financialcrm\\frmsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{703B0B43-D4A7-4C6D-928B-1C092A6BCADB}|FinancialCrm\\FinancialCrm.csproj|C:\\Users\\Msi\\source\\repos\\FinancialCrm\\financialcrm\\frmbankprocesses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{703B0B43-D4A7-4C6D-928B-1C092A6BCADB}|FinancialCrm\\FinancialCrm.csproj|solutionrelative:financialcrm\\frmbankprocesses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{703B0B43-D4A7-4C6D-928B-1C092A6BCADB}|FinancialCrm\\FinancialCrm.csproj|C:\\Users\\Msi\\source\\repos\\FinancialCrm\\financialcrm\\frmbanks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{703B0B43-D4A7-4C6D-928B-1C092A6BCADB}|FinancialCrm\\FinancialCrm.csproj|solutionrelative:financialcrm\\frmbanks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{703B0B43-D4A7-4C6D-928B-1C092A6BCADB}|FinancialCrm\\FinancialCrm.csproj|C:\\Users\\Msi\\source\\repos\\FinancialCrm\\financialcrm\\frmspendings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{703B0B43-D4A7-4C6D-928B-1C092A6BCADB}|FinancialCrm\\FinancialCrm.csproj|solutionrelative:financialcrm\\frmspendings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Msi\\source\\repos\\FinancialCrm\\FinancialCrm\\FrmLogin.cs",
+              "RelativeDocumentMoniker": "FinancialCrm\\FrmLogin.cs",
+              "ToolTip": "C:\\Users\\Msi\\source\\repos\\FinancialCrm\\FinancialCrm\\FrmLogin.cs [Design]",
+              "RelativeToolTip": "FinancialCrm\\FrmLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T15:09:23.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmBilling.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Msi\\source\\repos\\FinancialCrm\\FinancialCrm\\FrmBilling.cs",
+              "RelativeDocumentMoniker": "FinancialCrm\\FrmBilling.cs",
+              "ToolTip": "C:\\Users\\Msi\\source\\repos\\FinancialCrm\\FinancialCrm\\FrmBilling.cs [Design]",
+              "RelativeToolTip": "FinancialCrm\\FrmBilling.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T13:15:47.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmDashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Msi\\source\\repos\\FinancialCrm\\FinancialCrm\\FrmDashboard.cs",
+              "RelativeDocumentMoniker": "FinancialCrm\\FrmDashboard.cs",
+              "ToolTip": "C:\\Users\\Msi\\source\\repos\\FinancialCrm\\FinancialCrm\\FrmDashboard.cs [Design]",
+              "RelativeToolTip": "FinancialCrm\\FrmDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T13:31:45.264Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmCategories.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Msi\\source\\repos\\FinancialCrm\\FinancialCrm\\FrmCategories.cs",
+              "RelativeDocumentMoniker": "FinancialCrm\\FrmCategories.cs",
+              "ToolTip": "C:\\Users\\Msi\\source\\repos\\FinancialCrm\\FinancialCrm\\FrmCategories.cs [Design]",
+              "RelativeToolTip": "FinancialCrm\\FrmCategories.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T19:04:03.234Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmBanks.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Msi\\source\\repos\\FinancialCrm\\FinancialCrm\\FrmBanks.cs",
+              "RelativeDocumentMoniker": "FinancialCrm\\FrmBanks.cs",
+              "ToolTip": "C:\\Users\\Msi\\source\\repos\\FinancialCrm\\FinancialCrm\\FrmBanks.cs [Design]",
+              "RelativeToolTip": "FinancialCrm\\FrmBanks.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T19:45:43.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmBankProcesses.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Msi\\source\\repos\\FinancialCrm\\FinancialCrm\\FrmBankProcesses.cs",
+              "RelativeDocumentMoniker": "FinancialCrm\\FrmBankProcesses.cs",
+              "ToolTip": "C:\\Users\\Msi\\source\\repos\\FinancialCrm\\FinancialCrm\\FrmBankProcesses.cs [Design]",
+              "RelativeToolTip": "FinancialCrm\\FrmBankProcesses.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T18:13:10.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmSettings.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Msi\\source\\repos\\FinancialCrm\\FinancialCrm\\FrmSettings.cs",
+              "RelativeDocumentMoniker": "FinancialCrm\\FrmSettings.cs",
+              "ToolTip": "C:\\Users\\Msi\\source\\repos\\FinancialCrm\\FinancialCrm\\FrmSettings.cs [Design]",
+              "RelativeToolTip": "FinancialCrm\\FrmSettings.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T18:13:18.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmSpendings.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Msi\\source\\repos\\FinancialCrm\\FinancialCrm\\FrmSpendings.cs",
+              "RelativeDocumentMoniker": "FinancialCrm\\FrmSpendings.cs",
+              "ToolTip": "C:\\Users\\Msi\\source\\repos\\FinancialCrm\\FinancialCrm\\FrmSpendings.cs [Design]",
+              "RelativeToolTip": "FinancialCrm\\FrmSpendings.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T17:28:52.089Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FrmBilling.cs",
+              "DocumentMoniker": "C:\\Users\\Msi\\source\\repos\\FinancialCrm\\FinancialCrm\\FrmBilling.cs",
+              "RelativeDocumentMoniker": "FinancialCrm\\FrmBilling.cs",
+              "ToolTip": "C:\\Users\\Msi\\source\\repos\\FinancialCrm\\FinancialCrm\\FrmBilling.cs",
+              "RelativeToolTip": "FinancialCrm\\FrmBilling.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAApwEwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T20:13:04.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FrmLogin.cs",
+              "DocumentMoniker": "C:\\Users\\Msi\\source\\repos\\FinancialCrm\\FinancialCrm\\FrmLogin.cs",
+              "RelativeDocumentMoniker": "FinancialCrm\\FrmLogin.cs",
+              "ToolTip": "C:\\Users\\Msi\\source\\repos\\FinancialCrm\\FinancialCrm\\FrmLogin.cs",
+              "RelativeToolTip": "FinancialCrm\\FrmLogin.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowDkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T21:30:25.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Msi\\source\\repos\\FinancialCrm\\FinancialCrm\\Program.cs",
+              "RelativeDocumentMoniker": "FinancialCrm\\Program.cs",
+              "ToolTip": "C:\\Users\\Msi\\source\\repos\\FinancialCrm\\FinancialCrm\\Program.cs",
+              "RelativeToolTip": "FinancialCrm\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T12:41:41.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FrmSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Msi\\source\\repos\\FinancialCrm\\FinancialCrm\\FrmSettings.cs",
+              "RelativeDocumentMoniker": "FinancialCrm\\FrmSettings.cs",
+              "ToolTip": "C:\\Users\\Msi\\source\\repos\\FinancialCrm\\FinancialCrm\\FrmSettings.cs",
+              "RelativeToolTip": "FinancialCrm\\FrmSettings.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAiwEcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T18:42:14.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FrmCategories.cs",
+              "DocumentMoniker": "C:\\Users\\Msi\\source\\repos\\FinancialCrm\\FinancialCrm\\FrmCategories.cs",
+              "RelativeDocumentMoniker": "FinancialCrm\\FrmCategories.cs",
+              "ToolTip": "C:\\Users\\Msi\\source\\repos\\FinancialCrm\\FinancialCrm\\FrmCategories.cs",
+              "RelativeToolTip": "FinancialCrm\\FrmCategories.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAswGMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T20:09:54.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FrmDashboard.cs",
+              "DocumentMoniker": "C:\\Users\\Msi\\source\\repos\\FinancialCrm\\FinancialCrm\\FrmDashboard.cs",
+              "RelativeDocumentMoniker": "FinancialCrm\\FrmDashboard.cs",
+              "ToolTip": "C:\\Users\\Msi\\source\\repos\\FinancialCrm\\FinancialCrm\\FrmDashboard.cs",
+              "RelativeToolTip": "FinancialCrm\\FrmDashboard.cs",
+              "ViewState": "AgIAAIsAAAAAAAAAAADwv5QAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T18:32:50.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FrmSpendings.cs",
+              "DocumentMoniker": "C:\\Users\\Msi\\source\\repos\\FinancialCrm\\FinancialCrm\\FrmSpendings.cs",
+              "RelativeDocumentMoniker": "FinancialCrm\\FrmSpendings.cs",
+              "ToolTip": "C:\\Users\\Msi\\source\\repos\\FinancialCrm\\FinancialCrm\\FrmSpendings.cs",
+              "RelativeToolTip": "FinancialCrm\\FrmSpendings.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAkwEEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T20:00:22.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FrmBanks.cs",
+              "DocumentMoniker": "C:\\Users\\Msi\\source\\repos\\FinancialCrm\\FinancialCrm\\FrmBanks.cs",
+              "RelativeDocumentMoniker": "FinancialCrm\\FrmBanks.cs",
+              "ToolTip": "C:\\Users\\Msi\\source\\repos\\FinancialCrm\\FinancialCrm\\FrmBanks.cs",
+              "RelativeToolTip": "FinancialCrm\\FrmBanks.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAA6wGMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T20:14:16.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FrmBankProcesses.cs",
+              "DocumentMoniker": "C:\\Users\\Msi\\source\\repos\\FinancialCrm\\FinancialCrm\\FrmBankProcesses.cs",
+              "RelativeDocumentMoniker": "FinancialCrm\\FrmBankProcesses.cs",
+              "ToolTip": "C:\\Users\\Msi\\source\\repos\\FinancialCrm\\FinancialCrm\\FrmBankProcesses.cs",
+              "RelativeToolTip": "FinancialCrm\\FrmBankProcesses.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAswHQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T18:26:57.405Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
