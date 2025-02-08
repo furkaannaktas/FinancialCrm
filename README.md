@@ -31,7 +31,7 @@ Tüm bu finansal veriler, belirli kategorilere ayrılarak daha düzenli bir şek
   - 📈 **Dashboard Formu**  
   Görsel grafikler ve anlık bilgilerle finansal durumunuzu analiz etmenize yardımcı olan ekran.
 
-  ![Ekran görüntüsü 2025-02-09 004321](https://github.com/user-attachments/assets/a450dd46-07e5-4f6d-8782-ae870a0ee7de)
+![Ekran görüntüsü 2025-02-09 005559](https://github.com/user-attachments/assets/1c4e019e-5a82-40ea-906d-66e963d1d1b4)
 
 - 💳 **Banka Formu**  
   Banka hesaplarınızı kolayca yönetebileceğiniz, hesap bakiyelerinizi anlık takip edebileceğiniz ekran.
