@@ -28,7 +28,7 @@ Tüm bu finansal veriler, belirli kategorilere ayrılarak daha düzenli bir şek
   
   ![Ekran görüntüsü 2025-02-09 004038](https://github.com/user-attachments/assets/6b714c7a-3d0c-4514-855f-7ed953633153)
 
-  - 📈 **Dashboard Formu**  
+- 📈 **Dashboard Formu**  
   Görsel grafikler ve anlık bilgilerle finansal durumunuzu analiz etmenize yardımcı olan ekran.
 
 ![Ekran görüntüsü 2025-02-09 005559](https://github.com/user-attachments/assets/1c4e019e-5a82-40ea-906d-66e963d1d1b4)
