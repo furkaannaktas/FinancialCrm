@@ -25,25 +25,42 @@ Tüm bu finansal veriler, belirli kategorilere ayrılarak daha düzenli bir şek
 
 - 🔒 **Giriş Formu**  
   Kullanıcı adı ve şifre ile güvenli giriş yapabileceğiniz basit ve şık bir arayüz.
+  
+  ![Ekran görüntüsü 2025-02-09 004038](https://github.com/user-attachments/assets/6b714c7a-3d0c-4514-855f-7ed953633153)
 
 - 💳 **Banka Formu**  
   Banka hesaplarınızı kolayca yönetebileceğiniz, hesap bakiyelerinizi anlık takip edebileceğiniz ekran.
 
+  ![Ekran görüntüsü 2025-02-09 004402](https://github.com/user-attachments/assets/d4b51083-11e4-42ae-a8e1-e0ff216b626d)
+
 - 💸 **Faturalar Formu**  
   Düzenli ödemelerinizi takip edebileceğiniz ve geçmiş fatura bilgilerinize erişebileceğiniz ekran.
+
+  ![Ekran görüntüsü 2025-02-09 004504](https://github.com/user-attachments/assets/680b5192-c0d3-43f2-a3d3-5c8c2f326cd7)
 
 - 📝 **Giderler Formu**  
   Aylık giderlerinizi kategorilere ayırarak detaylı bir şekilde yönetebilirsiniz.
 
+  ![Ekran görüntüsü 2025-02-09 004425](https://github.com/user-attachments/assets/1bab6997-c392-4726-8d16-9605018b322d)
+
 - 🏦 **Banka Hareketleri Formu**  
   Tüm banka işlemlerinizin geçmişini detaylı bir şekilde inceleyebilirsiniz.
+
+  ![Ekran görüntüsü 2025-02-09 004557](https://github.com/user-attachments/assets/fd7f89a9-eb5b-4184-9656-8ae84167ada0)
 
 - 📈 **Dashboard Formu**  
   Görsel grafikler ve anlık bilgilerle finansal durumunuzu analiz etmenize yardımcı olan ekran.
 
+  ![Ekran görüntüsü 2025-02-09 004321](https://github.com/user-attachments/assets/a450dd46-07e5-4f6d-8782-ae870a0ee7de)
+
 - ⚙️ **Ayarlar Formu**  
   Uygulama ayarlarınızı özelleştirebileceğiniz ve tercihlerinizi yönetebileceğiniz alan.
 
+  ![Ekran görüntüsü 2025-02-09 004628](https://github.com/user-attachments/assets/bb849a33-b4bb-4af3-94f1-66a733d78b9f)
+
 - 🗂️ **Kategoriler Formu**  
   Finansal verilerinizin kategorilere ayrılmasını sağlar. Kullanıcılar, giderlerini ve gelirlerini belirli kategorilere göre gruplandırabilir, böylece daha düzenli bir finansal takip gerçekleştirebilir. Ayrıca, yeni kategoriler ekleyebilir, mevcut kategorileri düzenleyebilir ve kategorilere ait istatistiksel verileri görüntüleyebilirsiniz.
+
+  ![Ekran görüntüsü 2025-02-09 004347](https://github.com/user-attachments/assets/1bb100c4-30f4-45ad-a0a0-6fc99df97677)
+
 
